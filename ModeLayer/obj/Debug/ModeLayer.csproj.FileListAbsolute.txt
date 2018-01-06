@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\ModeLayer\bin\Debug\ModeLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\ModeLayer\bin\Debug\ModeLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\ModeLayer\obj\Debug\ModeLayer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\ModeLayer\obj\Debug\ModeLayer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\ModeLayer\obj\Debug\ModeLayer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\ModeLayer\obj\Debug\ModeLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\ModeLayer\obj\Debug\ModeLayer.pdb

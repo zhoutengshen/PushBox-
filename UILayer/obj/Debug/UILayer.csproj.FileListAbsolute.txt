@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\bin\Debug\UILayer.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\bin\Debug\UILayer.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\bin\Debug\UILayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\bin\Debug\ModeLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\bin\Debug\ModeLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.ChosePassForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.GameMenuForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.MapFactory.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.StarForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\UILayer\obj\Debug\UILayer.pdb

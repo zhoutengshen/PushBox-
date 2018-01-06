@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\DataLayer\bin\Debug\ModeLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\DataLayer\bin\Debug\ModeLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\PushBox\DataLayer\obj\Debug\DataLayer.pdb
